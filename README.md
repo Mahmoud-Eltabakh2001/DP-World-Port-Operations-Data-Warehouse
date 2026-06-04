@@ -60,7 +60,7 @@ The warehouse follows a Star Schema design consisting of:
 
 Architecture Diagram:
 
-![Port Operations Data Warehouse Architecture][Screens](DWH Architecture.png)
+![Port Operations Data Warehouse Architecture](Screens/DWH%20Architecture.png)
 
 ---
 
