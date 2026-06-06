@@ -44,10 +44,10 @@ The warehouse follows a Star Schema design consisting of:
 #### Dimension Tables
 
 * DimContainer
-* DimCustomer (SCD Type 2)
-* DimTerminal
-* DimEquipment
-* DimShift
+* DimCustomer  (SCD Type 1,2)
+* DimTerminal  (SCD Type 1)
+* DimEquipment (SCD Type 1)
+* DimShift     (SCD Type 1)
 * DimDate
 * DimTime
 * DimMoveType
